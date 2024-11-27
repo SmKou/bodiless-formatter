@@ -61,6 +61,7 @@ St. Ghost: coma (tutorial)
 - Puppet: implanted with wires and placed on display as animatron
 - Feast: dismembered for ingredients to cook
 - Burden: induced locked-in syndrome by breaking brainstem and presented to family
+- Pinned: stuck with needles in places they're not meant to be
 - cont. additional
 
 End: Anonymous: slow death from dehydration
