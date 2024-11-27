@@ -62,6 +62,9 @@ St. Ghost: coma (tutorial)
 - Feast: dismembered for ingredients to cook
 - Burden: induced locked-in syndrome by breaking brainstem and presented to family
 - Pinned: stuck with needles in places they're not meant to be
+- Barbeque: skewered by a pack of wild children
+- Companion: dressed up, positioned, and hidden as a child's toy
+- Clown: tied up, given a gun, placed in a mask, and positioned as a terrorist as swat sweeps the building
 - cont. additional
 
 End: Anonymous: slow death from dehydration
